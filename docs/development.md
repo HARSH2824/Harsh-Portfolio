@@ -1,4 +1,4 @@
-📄 Harsh Portfolio Documentation
+Harsh Portfolio Documentation
 🔗 Live Portfolio
 View the portfolio here: Harsh Portfolio
 
