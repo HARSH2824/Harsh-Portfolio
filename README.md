@@ -23,6 +23,11 @@ Welcome to my personal portfolio! This website showcases my web development skil
 🔗 **View Portfolio:** [https://harsh2824.github.io/Harsh-Portfolio/](https://harsh2824.github.io/Harsh-Portfolio/)  
 
 ---
+## 📄 Documentation
+To understand the development process, design decisions, and challenges encountered, refer to the detailed documentation:
+
+- [Development Process](docs/development.md)
+
 
 ## 📂 Installation & Setup (Optional)  
 If you want to run this project locally, follow these steps:  
